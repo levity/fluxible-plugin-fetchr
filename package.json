@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "debug": "^2.0.0",
-    "fetchr": "yahoo/fetchr#0ea8c3c4"
+    "fetchr": "levity/fetchr"
   },
   "devDependencies": {
     "chai": "^2.0.0",
