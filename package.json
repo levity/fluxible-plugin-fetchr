@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "debug": "^2.0.0",
-    "fetchr": "^0.5.14"
+    "fetchr": "yahoo/fetchr#0ea8c3c4"
   },
   "devDependencies": {
     "chai": "^2.0.0",
